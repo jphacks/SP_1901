@@ -27,7 +27,7 @@
 送ったプレゼントにスマートフォンのカメラをかざすとARでキャラクターが出てきてメッセージを話してくれるアプリを開発しました。
 
 ### システム構成図
-<img src="https://imgur.com/undefined.png" width="800">
+<img src="https://imgur.com/kSb3FVW.png" width="800">
 
 ### 特長
 
