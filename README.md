@@ -18,6 +18,7 @@
 <img src="https://imgur.com/EJgYO7S.jpg" width="600">
 （出典）株式会社オーネット 広報グループ
 
+
 * 遠距離恋愛で心配なこと１位がコミュニケーション頻度の低下
 <img src="https://imgur.com/q9RbTLW.jpg" width="600">
 （出典）株式会社オーネット 広報グループ
