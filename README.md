@@ -72,8 +72,8 @@ AR＋音声で親近感の持てるメッセージを送ることで心理的な
 #### API・データ
 今回スポンサーから提供されたAPI、製品などの外部技術があれば記述をして下さい。
 
-* ミライ小町3Dモデル（[バンダイナムコ](https://www.bandainamco.co.jp/)様）
-* gooラボAPI（[NTTレゾナント](https://labs.goo.ne.jp/)様）
+* [ミライ小町3Dモデル](https://github.com/Miraikomachi)（[バンダイナムコ](https://www.bandainamco.co.jp/)様）
+* [gooラボAPI](https://labs.goo.ne.jp/)様（[NTTレゾナント](https://www.nttr.co.jp/)様）
 
 #### フレームワーク・ライブラリ・モジュール
 * Unity ARkit2.0（ARの表示、物体の特徴点のマッチングなど）
