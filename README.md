@@ -31,7 +31,7 @@ AR動画とプレゼントを載せた矢が受取り手に届くというイメ
 ### 特長
 
 #### 1. プレゼントにカメラをかざすとARでキャラクターが表示
-<img src = "MotionSelect.gif" width = "100">;
+<img src = "AR.gif" width = "100">;
 
 #### 2. キャラクターが録音したメッセージを話してくれる
 <img src = "VoiceSingning.gif" width = "100">;
