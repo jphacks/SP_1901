@@ -22,7 +22,7 @@ AR映像を遠くにいるプレゼントの受取り手に届けるという意
 AR動画とプレゼントを載せた矢が受取り手に届くというイメージです。
 
 ### システム構成図
-<img src="https://imgur.com/rQnCz9U.png" width="800">
+<img src="https://imgur.com/NEn2buM.png" width="800">
 
 ### 特長
 
