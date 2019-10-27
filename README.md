@@ -1,6 +1,8 @@
 # GIFT ARrow
 
-[![Product Name](image.png)](https://www.youtube.com/watch?v=G5rULR53uMk)
+<p align="center">
+<a href="https://youtu.be/X4_WlzmC2Wg"><img src="図1.png" alt="サンプル"></a>
+</p>
 
 ## 製品概要
 ### プレゼント×Tech（AR）
