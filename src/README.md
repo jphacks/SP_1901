@@ -21,55 +21,55 @@ GoogleCloudを用いて録音した音声を文字認識し、gooラボAPIを用
 音声に含まれる言葉に合わせて、ミライ小町のモーションを自動で選択追加することを目指している。
 なお、形態素解析までは実装済み。
 
-##Unity-iPhone.xcodeproj
+## Unity-iPhone.xcodeproj
 UnityをiOS向けにビルドしたXCodeプロジェクト。
 
-#各スクリプトの説明
+# 各スクリプトの説明
 
-##AddScene.cs
+## AddScene.cs
 Unity中でモーション追加の画面から
 ARの動作確認のシーンへの遷移するためのスクリプト。
 
-##AddSceneStart.cs
+## AddSceneStart.cs
 Unity中でモーション追加の画面から
 AR・音声の動作確認のシーンへ遷移するためのスクリプト。
 
-##Bto1ButtonScript.cs
+## Bto1ButtonScript.cs
 Unity中でホーム画面へ遷移するためのスクリプト。
 
-##Bto2ButtonScript.cs
+## Bto2ButtonScript.cs
 Unity中でユーザーにアプリ中での動作を伝えるシーンへ遷移するためのスクリプト。
 
-##Bto6ButtonScript.cs
+## Bto6ButtonScript.cs
 Unity中でAR・音声の動作確認のシーンへ遷移するためのスクリプト。
 
-##ButtonScript.cs
+## ButtonScript.cs
 Unity中でミライ小町のアニメーターコンポーネントを取得するためのスクリプト。
 
-##ButtonScript1.cs
+## ButtonScript1.cs
 Unity中でミライ小町のアニメーターコンポーネントを取得するためのスクリプト。
 
-##Fto2ButtonScript.cs
+## Fto2ButtonScript.cs
 Unity中でスタート画面へ遷移するためのスクリプト。
 
-##Fto3ButtonScript.cs
+## Fto3ButtonScript.cs
 Unity中でプレゼントの確認画面へ遷移するためのスクリプト。
 
-##Fto4ButtonScript.cs
+## Fto4ButtonScript.cs
 Unity中で音声メッセージを録音・再生する画面へ遷移するためのスクリプト。
 
-##Fto5ButtonScript.cs
+## Fto5ButtonScript.cs
 Unity中でモーションを追加する画面へ遷移するためのスクリプト。
 
-##Fto7ButtonScript.cs
+## Fto7ButtonScript.cs
 Unity中で送信完了画面へ遷移するためのスクリプト。
 
-##KeepStr.cs
+## KeepStr.cs
 Unity中でモーション選択をする際、選んだモーションを著すStringを取得し、保持するためのスクリプト。
 
-##KomachiFaceAnimation.cs
+## KomachiFaceAnimation.cs
 Unity中でのミライ小町の表情を指定するスクリプト。
 
-##RecordController.cs
+## RecordController.cs
 Unity中でボタンを操作し音声の録音・再生を行うためのスクリプト。
 
