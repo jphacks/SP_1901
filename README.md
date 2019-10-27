@@ -1,7 +1,7 @@
 # GIFT ARrow
 
 <p align="center">
-<a href="https://youtu.be/NY_7FiXAllE"><img src="Play.png" alt="サンプル"></a>
+<a href="https://youtu.be/NY_7FiXAllE"><img src="PlayMovie.png" alt="サンプル"></a>
 </p>
 
 ## 製品概要
