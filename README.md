@@ -1,7 +1,7 @@
 # GIFT ARrow
 
 <p align="center">
-<a href="https://youtu.be/X4_WlzmC2Wg"><img src="図1.png" alt="サンプル"></a>
+<a href="https://youtu.be/X4_WlzmC2Wg"><img src="ロゴ白抜き_アートボード 1.png" alt="サンプル"></a>
 </p>
 
 ## 製品概要
